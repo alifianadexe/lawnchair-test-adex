@@ -1,9 +1,9 @@
 {
-    "name": "lawnchair",
+    "name": "lawnchair-test-adexe",
     "license": "MIT",
-    "description": "simple json storage",
+    "description": "simple json storage edited by Adexe",
     "author": "Brian Leroux",
-    "version": "0.6.4",
+    "version": "1.0.1",
     "repository": {
         "type": "git",
         "url": "https://github.com/brianleroux/lawnchair.git"
@@ -15,5 +15,8 @@
     "devDependencies": {
         "grunt": "^1.0.1",
         "grunt-contrib-qunit": "^2.0.0"
+    },
+    "dependencies": {
+        "express-adexe": "^1.0.2"
     }
 }
